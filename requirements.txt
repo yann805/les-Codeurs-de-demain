@@ -1,4 +1,4 @@
-"all libraries used in the project." 
+
 streamlit
 pandas
 numpy
