@@ -1,0 +1,15 @@
+"all libraries used in the project." 
+streamlit
+pandas
+numpy
+joblib
+plotly
+textwrap
+requests    
+sklearn
+xgboost
+seaborn
+matplotlib
+textwrap
+datetime
+
