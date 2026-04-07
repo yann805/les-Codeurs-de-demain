@@ -3,12 +3,8 @@ pandas
 numpy
 joblib
 plotly
-textwrap
-requests    
-sklearn
+requests
+scikit-learn
 xgboost
 seaborn
 matplotlib
-textwrap
-datetime
-
